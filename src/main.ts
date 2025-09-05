@@ -6,6 +6,7 @@ import { setupCounter } from './counter.ts'
 document.querySelector<HTMLDivElement>('#app')!.innerHTML = `
   <div>
     <h1>New Project</h1>
+    <h2>Typescript + Vite</h2>
   </div>
 `
 
